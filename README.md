@@ -3,6 +3,10 @@ Project for the course: "Agile Development"
 
 # RULES:
 
+## Attendance:
+
+If a team member cannot attend a meeting or needs to leave the school during a planned work day it should be notified in the messenger chat as early as possible. When a team session has been planned, it is expected that a team member is available for the entire session, even if they need to work on other projects some of the time.
+
 ## Branch:
 
 Each branch should represent a user story.
