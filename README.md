@@ -35,3 +35,7 @@ Example: ```Adds new button to upload image.```
 ### Variable naming convention:
 
 Follow language default naming convention.
+
+### Testing guidelines
+
+Write unit tests beforehand whenever possible. If writing tests beforehand is not possible, write the code first, and then write a test after. If test writing time exceeds what is reasonable for a task, perform manual tests instead.
