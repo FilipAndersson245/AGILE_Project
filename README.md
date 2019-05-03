@@ -9,7 +9,7 @@ Android: https://github.com/FilipAndersson245/AgileProjectAndroid
 
 Server API: https://github.com/FilipAndersson245/AgileProjectServer
 
-Rasberry Pi: https://github.com/FilipAndersson245/AgileProjectPi
+Raspberry Pi: https://github.com/FilipAndersson245/AgileProjectPi
 
 # RULES:
 
